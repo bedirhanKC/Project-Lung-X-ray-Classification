@@ -1,1 +1,1 @@
-# Project-Lung-X-ray-Classification
+# Lung X-ray Classification with KNN & Logistic Regression
